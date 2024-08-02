@@ -1,6 +1,6 @@
 {
-  "name": "suhail-md@1.3.9",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "☛𝐓𝐑𝐈𝐋𝐋𝐒-𝐌𝐃☚",
+  "description": "I am Trills-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/notyet",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Trills",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "☛𝐓𝐑𝐈𝐋𝐋𝐒-𝐌𝐃☚"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2347082703155"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -93,12 +93,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Trills Md",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "TRILLS",
       "required": false 
     }
   }, 
@@ -107,4 +107,4 @@
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
   ]
-}
+  }
